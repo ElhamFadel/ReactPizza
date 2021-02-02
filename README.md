@@ -3,7 +3,9 @@
 
 Summary 📝
 ReactPizza : is SPA website for pizza . Built with React 
+<br />
 [Skills Used:](url)
+<br />
 - ReactJS
 - Styled Components
  ## React Piza website
